@@ -6,6 +6,6 @@ Linear regression is a method used to model a  relationship between a dependent 
 Using linear regression the share will be predict only if it grows linearly,but in share market as we know its not possible of predicting like that..
 
 LONG SHORT TERM MEMORY
-Here we used LSTM for predicting share ..
+Here I used LSTM for predicting share ..
 LSTMs are very powerful in sequence prediction problems because they’re able to store past information. 
 This is important in our case because the previous price of a stock is crucial in predicting its future price.
